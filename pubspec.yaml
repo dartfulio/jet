@@ -1,0 +1,9 @@
+name: jet
+version: 0.0.1
+description: Lightweight framework for building performant and scalable web applications.
+author: Dartful.io
+homepage: https://github.com/dartfulio/jet
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  built_collection: ^4.0.0
